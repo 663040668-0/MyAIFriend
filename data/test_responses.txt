@@ -1,0 +1,8 @@
+# This is the file to store input and responses for the AI (use :$: to separate between the input and the response)
+Hi :$: [Yo!; Hi!; Hello!; Sup!; Good morning!]
+Hello :$: [Yo!; Hi!; Hello!; Sup!; Greeting!]
+hi :$: [hi; Hi!]
+hello :$: [hello; Hello!]
+rename :$: [Did you forget '/' symbol?]
+yes :$: [You're welcome! :D]
+Yes :$: [That's great!]
