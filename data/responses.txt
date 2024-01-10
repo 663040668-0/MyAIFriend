@@ -1,5 +1,4 @@
 # This is the file to store input and responses for the AI (use :$: to separate between the input and the response)
-__unknown__ :$: [Sorry, I couldn't understand.; Sorry, but I don't know how can I respond.;]
-Hi :$: [Yo!; Hi!; Hello!; Sup!; Good morning!]
+Hi :$: [Yo!; Hi!; Hello!; Sup!;]
 Hello :$: [Yo!; Hi!; Hello!; Sup!]
-Kuay :$: [Yes.; No.]
+test :$: [yay]

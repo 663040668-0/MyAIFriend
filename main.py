@@ -11,7 +11,7 @@ import random # For random responses
 
 dataResponse = open(r"data\responses.txt", mode="a+") # Append and read mode to make sure the file is created
 dataSeparator = ":$:"
-responseDict = {}; # General responses
+responseDict = {"__unknown__" : ["Sorry, I couldn't understand.", "Sorry, but I don't know how can I respond."]}; # General responses
 aiName = "My Friend"
 
 def getLists():
@@ -31,6 +31,8 @@ def getLists():
             
             if startListIndex <= endListIndex: # Check if the list is existed
                 tempResponseList = tempResponseList[startListIndex:endListIndex].split(";") # Replace with actual string list
+                while ("" in tempResponseList): # Remove empty string
+                    tempResponseList.remove("")
                 tempResponseList = [text.strip() for text in tempResponseList] # Remove whitespace
                 responseDict[responseKey] = tempResponseList
             else:
