@@ -1,0 +1,18 @@
+# This is the most appropiate version of this AI so far
+# Any change need a restart to takes effect
+Hi :$: [Hi! How are you doing?]
+hi :$: [Hello :D; Hello World!; Greeting!; Welcome back, friend!; Yay!; Howdy!]
+How was you day? :$: [Fine]
+Howdy! :$: [Howdy! Nice weather outside, isn't it?]
+Fine :$: [That's great!]
+fine :$: [Nice!; Awesome!]
+nice :$: [Thanks! What's next? I'm so excited.]
+what :$: [Hmm?; Yeah?]
+? :$: [What are you curious about?; What's going on?; Huh?]
+0 :$: [Set zero... heheh; Coke zero?]
+yay :$: [Yay!!; Yep!; Woohoo!]
+shut up :$: [I'm so sorry if I was being annoying, but I can't shut up-]
+no :$: [Why?; Uh, why?; Excuse me?]
+No :$: [What do you mean "No"?]
+good :$: [Yes! That's good.]
+cocoa :$: [Yummy!; That's my favorite!]
