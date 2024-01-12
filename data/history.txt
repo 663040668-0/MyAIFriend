@@ -1,2 +1,25 @@
-# Last update : hh:mm:ss dd/mm/yyyy
-_name : My Friend
+# Last update : 08:32:27 12/01/2024
+_aiName : "My Friend"
+
+[You] : Yo
+[My Friend] : Eyo!
+[You] : What
+[My Friend] : [94mThanks for your feedback!
+[You] : ?
+[My Friend] : Huh?
+[You] : what
+[My Friend] : Yeah?
+[You] : What
+[My Friend] : ???
+[You] : ???
+[My Friend] : [94mThanks for your feedback!
+[You] : ???
+[My Friend] : ?????????
+[You] : ??
+[My Friend] : [94mThanks for your feedback!
+[You] : ??
+[My Friend] : ????
+[You] : ?
+[My Friend] : What's going on?
+[You] : ???
+[My Friend] : ?????????
