@@ -287,12 +287,18 @@ def updateHistory(userText, aiText):
     dataHistory.close()
 
 def talk():
+    implicitInput = ""
     while (True):
         global aiName
         userText = input(cUserChat + "[You] : ")
         aiResponse = respond(userText.strip())
+        if implicitInput != "" and userText.strip().find("/") != 0:
+            # Learn from user input
+            insertResponse(["\"" + implicitInput + "\"", "\"" + userText + "\""])
+        
         print(cAiChat + "[" + aiName + "] : " + aiResponse)
         updateHistory(userText, aiResponse.strip())
+        implicitInput = aiResponse
 
 if __name__ == "__main__":
     colorama.init(convert=True)

@@ -1,5 +1,5 @@
-# Last update : 08:32:27 12/01/2024
-_aiName : "My Friend"
+# Last update : 08:55:20 12/01/2024
+_aiName : "Hitler"
 
 [You] : Yo
 [My Friend] : Eyo!
@@ -23,3 +23,201 @@ _aiName : "My Friend"
 [My Friend] : What's going on?
 [You] : ???
 [My Friend] : ?????????
+[You] : /h
+[My Friend] : [94mThese are currently available commands:
+/help, /h : Show list of commands.
+/exit, /quit, /q : Exit the chat.
+/rename, /rn : Change AI name. (e.g. /rn "Not my friend")
+/more, /add, /insert, /a : Add new response data. (e.g. /a "Hi" "Good morning!")
+/view, /data, /v : View all response data.
+[You] : /v
+[My Friend] : [94mFrom "\data\responses.txt"
+Hi :$: [Hi! How are you doing?]
+hi :$: [Hello :D; Hello World!; Greeting!; Welcome back, friend!; Yay!; Howdy!]
+How was you day? :$: [Fine]
+Howdy! :$: [Howdy! Nice weather outside, isn't it?]
+Fine :$: [That's great!]
+fine :$: [Nice!; Awesome!]
+nice :$: [Thanks! What's next? I'm so excited.]
+what :$: [Hmm?; Yeah?]
+? :$: [What are you curious about?; What's going on?; Huh?]
+0 :$: [Set zero... heheh; Coke zero?]
+yay :$: [Yay!!; Yep!; Woohoo!]
+shut up :$: [I'm so sorry if I was being annoying, but I can't shut up-]
+no :$: [Why?; Uh, why?; Excuse me?]
+No :$: [What do you mean "No"?]
+good :$: [Yes! That's good.]
+cocoa :$: [Yummy!; That's my favorite!]
+"" :$: [What an emtiness...]
+UwU :$: [UwU]
+name? :$: [Uh...]
+yo :$: [Sup!]
+Yo :$: [Eyo!]
+sup :$: [Sup bro]
+fuck :$: [What's happened?]
+nothing :$: [Come on, we are friend, aren't we?]
+e :$: [E]
+who are you :$: [Of course, your friend!]
+who are you? :$: [Of course, your friend!]
+hey :$: [HEY!]
+huh? :$: [HUH???]
+no way :$: [YES]
+wtf :$: [Heh?]
+NO :$: [WHAT?!]
+what your name :$: [BEBE]
+What :$: [???]
+??? :$: [?????????]
+?? :$: [????]
+[You] : /k
+[My Friend] : [91mI cannot recognize the command.
+??? :$: [?????????]
+?? :$: [????]
+[You] : /n
+[My Friend] : [91mI cannot recognize the command.
+[You] : /v
+[My Friend] : [94mFrom "\data\responses.txt"
+Hi :$: [Hi! How are you doing?]
+hi :$: [Hello :D; Hello World!; Greeting!; Welcome back, friend!; Yay!; Howdy!]
+How was you day? :$: [Fine]
+Howdy! :$: [Howdy! Nice weather outside, isn't it?]
+Fine :$: [That's great!]
+fine :$: [Nice!; Awesome!]
+nice :$: [Thanks! What's next? I'm so excited.]
+what :$: [Hmm?; Yeah?]
+? :$: [What are you curious about?; What's going on?; Huh?]
+0 :$: [Set zero... heheh; Coke zero?]
+yay :$: [Yay!!; Yep!; Woohoo!]
+shut up :$: [I'm so sorry if I was being annoying, but I can't shut up-]
+no :$: [Why?; Uh, why?; Excuse me?]
+No :$: [What do you mean "No"?]
+good :$: [Yes! That's good.]
+cocoa :$: [Yummy!; That's my favorite!]
+"" :$: [What an emtiness...]
+UwU :$: [UwU]
+name? :$: [Uh...]
+yo :$: [Sup!]
+Yo :$: [Eyo!]
+sup :$: [Sup bro]
+fuck :$: [What's happened?]
+nothing :$: [Come on, we are friend, aren't we?]
+e :$: [E]
+who are you :$: [Of course, your friend!]
+who are you? :$: [Of course, your friend!]
+hey :$: [HEY!]
+huh? :$: [HUH???]
+no way :$: [YES]
+wtf :$: [Heh?]
+NO :$: [WHAT?!]
+what your name :$: [BEBE]
+What :$: [???]
+??? :$: [?????????]
+?? :$: [????]
+[You] : Yo
+[My Friend] : Eyo!
+ name :$: [BEBE]
+What :$: [???]
+??? :$: [?????????]
+?? :$: [????]
+[You] : wtf
+[My Friend] : Heh?
+[You] : no
+[My Friend] : Why?
+[You] : no way
+[My Friend] : YES
+[You] : /rn
+[Hitler] : [94mFrom now on, my name is Hitler!
+[You] : what your name
+[Hitler] : BEBE
+[You] : no way
+[Hitler] : YES
+[You] : NO
+[Hitler] : WHAT?!
+[You] : NOO
+[Hitler] : [94mThanks for your feedback!
+[You] : NO
+[Hitler] : WHAT?!
+[You] : NOO
+[Hitler] : NOOOOOOO
+[You] : What
+[Hitler] : ???
+[You] : Haha
+[Hitler] : [94mThanks for your feedback!
+[You] : ???
+[Hitler] : Haha
+[You] : ???
+[Hitler] : ?????????
+[You] : /a
+[Hitler] : [94mRecorded. Thanks for your feedback!
+[You] : Haha
+[Hitler] : ???
+[You] : Haha
+[Hitler] : ???
+[You] : Haha
+[Hitler] : Hoho
+[You] : Haha
+[Hitler] : Hehe
+[You] : /a
+[Hitler] : [94mRecorded. Thanks for your feedback!
+[You] : Hehe
+[Hitler] : [94mOkay. I won't record it.
+[You] : tell me more
+[Hitler] : [94mThanks for your feedback!
+[You] : tell me more
+[Hitler] : about what?
+[You] : yourself
+[Hitler] : [94mThanks for your feedback!
+[You] : yourself
+[Hitler] : no way
+[You] : why?
+[Hitler] : [94mThanks for your feedback!
+[You] : /v
+[Hitler] : [94mFrom "\data\responses.txt"
+# This is the most appropiate version of this AI so far
+# Any change need a restart to takes effect
+Hi :$: [Hi! How are you doing?]
+hi :$: [Hello :D; Hello World!; Greeting!; Welcome back, friend!; Yay!; Howdy!]
+How was you day? :$: [Fine]
+Howdy! :$: [Howdy! Nice weather outside, isn't it?]
+Fine :$: [That's great!]
+fine :$: [Nice!; Awesome!]
+nice :$: [Thanks! What's next? I'm so excited.]
+what :$: [Hmm?; Yeah?]
+? :$: [What are you curious about?; What's going on?; Huh?]
+0 :$: [Set zero... heheh; Coke zero?]
+yay :$: [Yay!!; Yep!; Woohoo!]
+shut up :$: [I'm so sorry if I was being annoying, but I can't shut up-]
+no :$: [Why?; Uh, why?; Excuse me?]
+No :$: [What do you mean "No"?]
+good :$: [Yes! That's good.]
+cocoa :$: [Yummy!; That's my favorite!]
+"" :$: [What an emtiness...]
+UwU :$: [UwU]
+name? :$: [Uh...]
+yo :$: [Sup!]
+Yo :$: [Eyo!]
+sup :$: [Sup bro]
+fuck :$: [What's happened?]
+nothing :$: [Come on, we are friend, aren't we?]
+e :$: [E]
+who are you :$: [Of course, your friend!]
+who are you? :$: [Of course, your friend!]
+hey :$: [HEY!]
+huh? :$: [HUH???]
+no way :$: [YES; why?]
+wtf :$: [Heh?]
+NO :$: [WHAT?!]
+what your name :$: [BEBE]
+What :$: [???]
+??? :$: [?????????; Haha; Haha; Haha]
+?? :$: [????]
+NOO :$: [NOOOOOOO]
+Haha :$: [Hehe; ???; Hoho]
+[94mThanks for your feedback! :$: [???; tell me more; yourself]
+[94mRecorded. Thanks for your feedback! :$: [Haha; Hehe]
+Hoho :$: [Haha]
+gg :$: [nice]
+tell me more :$: [about what?]
+[94mOkay. I won't record it. :$: [tell me more]
+yourself :$: [no way]
+about what? :$: [yourself]
+why? :$: [idk]
